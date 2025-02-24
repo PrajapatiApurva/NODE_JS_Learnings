@@ -18,7 +18,10 @@ Happy coding!
 
 ### How to change git branch name and set it up in local repo:
 
-- git branch -m master main
-- git fetch origin
-- git branch -u origin/main main
-- git remote set-head origin -a
+```
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+
+```
