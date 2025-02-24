@@ -1,5 +1,9 @@
 # How Node.js Works
 
+## Must Watch video of Piyush Garg's explaination on how NodeJs works:
+
+[Video Link for better understanding on NodeJs](https://youtu.be/y0aTs56DJWk?si=u5O0fIoGLrWPxDDK)
+
 ## Overview
 
 Node.js operates on a **single-threaded, event-driven architecture**, which makes it lightweight and highly efficient. It is designed to handle multiple requests concurrently using **non-blocking I/O operations**.
